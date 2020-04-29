@@ -1,0 +1,14 @@
+{
+  "name": "buscador-de-nombres",
+  "version": "1.0.0",
+  "description": "Buscador de nombres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Carlos Avila",
+  "license": "ISC",
+  "dependencies": {
+    "choices.js": "^9.0.1"
+  }
+}
